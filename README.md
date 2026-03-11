@@ -147,10 +147,9 @@ python preprocess_dnase.py \
 --outdir results
 ```
 
-Parameters:
+#### Parameters:
 
   Parameter       Description   
-  --------------- -----------------------------------------   
   `--bed`         Input BED or narrowPeak file   
   `--genome`      Reference genome FASTA   
   `--outdir`      Output directory   
@@ -170,10 +169,9 @@ The program produces:
      ├── positive.txt   
      └── negative.txt   
 
-Descriptions:   
+#### Descriptions:   
 
   File           Purpose   
-  -------------- -----------------------------------   
   positive.bed   Accessible regions trimmed to X   
   negative.bed   Sampled inaccessible windows   
   positive.fa    FASTA sequences of positives   
