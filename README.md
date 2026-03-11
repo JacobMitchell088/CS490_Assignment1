@@ -172,12 +172,12 @@ The program produces:
 #### Descriptions:   
 
   File           Purpose   
-  positive.bed   Accessible regions trimmed to X   
-  negative.bed   Sampled inaccessible windows   
-  positive.fa    FASTA sequences of positives   
-  negative.fa    FASTA sequences of negatives   
-  positive.txt   Training sequences (accessible)   
-  negative.txt   Training sequences (inaccessible)   
+  `positive.bed `   Accessible regions trimmed to X   
+  `negative.bed  `  Sampled inaccessible windows   
+  `positive.fa  `    FASTA sequences of positives   
+  `negative.fa  `    FASTA sequences of negatives   
+  `positive.txt  `   Training sequences (accessible)   
+  `negative.txt  `  Training sequences (inaccessible)   
 
 ------------------------------------------------------------------------   
 
